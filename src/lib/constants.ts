@@ -4,5 +4,5 @@ export const COMPANY_DETAILS = {
     email: "nccpo@contractor.net",
     address: "165 WOLVERHAMPTION ROAD WEST, WALSALL, WS2 ODU",
     companyNumber: "16242818",
-    website: "bcpo.com", // Placeholder; update if new domain exists
+    website: "bcpo.cc", // Placeholder; update if new domain exists
   };
