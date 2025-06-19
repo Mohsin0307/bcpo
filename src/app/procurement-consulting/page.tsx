@@ -54,7 +54,7 @@ const ProcurementConsulting = () => {
           <div className="max-w-3xl">
             <h1 className="text-4xl md:text-5xl font-bold mb-6">Procurement Consulting Services</h1>
             <p className="text-lg md:text-xl leading-relaxed mb-8">
-              Transform your procurement strategy with expert consulting from NCCPO Ltd. We help businesses optimize their sourcing, 
+              Transform your procurement strategy with expert consulting from BCPO Ltd. We help businesses optimize their sourcing, 
               streamline processes, and achieve significant cost savings.
             </p>
             <Link 
@@ -74,7 +74,7 @@ const ProcurementConsulting = () => {
         <div className="mb-16">
           <h2 className="text-3xl font-bold mb-6">Expert Procurement Solutions for Your Business</h2>
           <p className="text-lg leading-relaxed mb-6">
-            At <strong>NCCPO Ltd</strong>, we empower businesses by streamlining their procurement strategy and operations. 
+            At <strong>BCPO Ltd</strong>, we empower businesses by streamlining their procurement strategy and operations. 
             Our consulting services focus on maximizing value through cost-effective sourcing, compliance with procurement laws, 
             and aligning supplier capabilities with your project goals.
           </p>

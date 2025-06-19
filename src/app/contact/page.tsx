@@ -74,7 +74,7 @@ const ContactPage = () => {
                   </div>
                   <div>
                     <h3 className="font-semibold text-lg text-[#0c2e57]">Our Address</h3>
-                    <p className="text-gray-600">1 Brockehurst Mews, Macclesfield, SK10 2GY</p>
+                    <p className="text-gray-600">165 WOLVERHAMPTION ROAD WEST, WALSALL, WS2 ODU</p>
                   </div>
                 </div>
 

@@ -8,7 +8,7 @@ const TermsAndConditions = () => {
       <h1 className="text-4xl font-bold mb-6 text-center">Terms and Conditions</h1>
 
       <p className="mb-4">
-        These Terms and Conditions (&quot;Terms&quot;) govern your use of the website operated by NCCPO Ltd, located at 1 Brockehurst Mews, Macclesfield, SK10 2GY, with company number 16242818 and telephone number +44 7979 201706.
+        These Terms and Conditions (&quot;Terms&quot;) govern your use of the website operated by BCPO Ltd, located at 1 Brockehurst Mews, Macclesfield, SK10 2GY, with company number 16242818 and telephone number +44 7979 201706.
       </p>
 
       <h2 className="text-2xl font-semibold mt-8 mb-2">1. Introduction</h2>
@@ -23,7 +23,7 @@ const TermsAndConditions = () => {
 
       <h2 className="text-2xl font-semibold mt-8 mb-2">3. Intellectual Property</h2>
       <p className="mb-4">
-        All content on our website, including text, graphics, logos, and images, is the property of NCCPO Ltd or its content suppliers. You may not reproduce, duplicate, or exploit any part of the site without express written permission.
+        All content on our website, including text, graphics, logos, and images, is the property of BCPO Ltd or its content suppliers. You may not reproduce, duplicate, or exploit any part of the site without express written permission.
       </p>
 
       <h2 className="text-2xl font-semibold mt-8 mb-2">4. Accuracy of Information</h2>
@@ -33,7 +33,7 @@ const TermsAndConditions = () => {
 
       <h2 className="text-2xl font-semibold mt-8 mb-2">5. Limitation of Liability</h2>
       <p className="mb-4">
-        NCCPO Ltd shall not be liable for any direct, indirect, or consequential loss or damage arising from the use or inability to use the website.
+        BCPO Ltd shall not be liable for any direct, indirect, or consequential loss or damage arising from the use or inability to use the website.
       </p>
 
       <h2 className="text-2xl font-semibold mt-8 mb-2">6. Third-Party Links</h2>
