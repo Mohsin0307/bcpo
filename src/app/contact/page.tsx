@@ -94,7 +94,7 @@ const ContactPage = () => {
                   </div>
                   <div>
                     <h3 className="font-semibold text-lg text-[#0c2e57]">Email Us</h3>
-                    <a href="mailto:info@nccpo.com" className="text-blue-600 hover:underline">info@nccpo.com</a>
+                    <a href="mailto:nccpo@contractor.net" className="text-blue-600 hover:underline">nccpo@contractor.net</a>
                   </div>
                 </div>
               </div>

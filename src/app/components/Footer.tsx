@@ -9,7 +9,7 @@ const Footer = () => {
       <div className="max-w-6xl mx-auto grid grid-cols-1 md:grid-cols-3 gap-10">
         {/* Company Info */}
         <div>
-          <h2 className="text-2xl font-bold text-yellow-400 mb-4">NCCPO Ltd</h2>
+          <h1 className="text-2xl font-bold text-yellow-400 mb-4">BCPO</h1>
           <p className="text-sm text-gray-300">
             A multi-disciplined construction consultancy delivering top-quality services across the UK.
           </p>
@@ -45,7 +45,7 @@ const Footer = () => {
             </li>
             <li className="flex items-start gap-2">
               <Mail size={16} className="mt-1 text-yellow-400" />
-              info@nccpo.com
+              nccpo@contractor.net
             </li>
           </ul>
         </div>
@@ -53,7 +53,7 @@ const Footer = () => {
 
       {/* Copyright */}
       <div className="mt-10 border-t border-gray-700 pt-6 text-center text-xs text-gray-400">
-        &copy; {new Date().getFullYear()} NCCPO Ltd. Company Number 16242818. All rights reserved.
+        &copy; {new Date().getFullYear()} BCPO. Company Number 16242818. All rights reserved.
       </div>
     </footer>
   );

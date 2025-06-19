@@ -5,10 +5,10 @@ import React from 'react';
 const AboutUs = () => {
   return (
     <main className="max-w-5xl mx-auto px-6 py-16 text-[#0c2e57]">
-      <h1 className="text-4xl font-bold mb-6 text-center">About NCCPO Ltd</h1>
+      <h1 className="text-4xl font-bold mb-6 text-center">About BCPO Ltd</h1>
 
       <p className="mb-4">
-        At <strong>NCCPO Ltd</strong>, we are dedicated to providing expert construction consultancy services across both the residential and commercial sectors. Based in Macclesfield and serving clients across the UK, our company is built on a foundation of professionalism, trust, and a deep commitment to delivering quality on every project.
+        At <strong>BCPO Ltd</strong>, we are dedicated to providing expert construction consultancy services across both the residential and commercial sectors. Based in Macclesfield and serving clients across the UK, our company is built on a foundation of professionalism, trust, and a deep commitment to delivering quality on every project.
       </p>
 
       <p className="mb-4">
@@ -30,7 +30,7 @@ const AboutUs = () => {
       <div className="text-center">
         <p className="font-semibold">📍 1 Brockehurst Mews, Macclesfield, SK10 2GY</p>
         <p className="font-semibold">📞 +44 7979 201706</p>
-        <p className="font-semibold">📧 info@nccpo.com</p>
+        <p className="font-semibold">📧 info@bcpo.com</p>
       </div>
     </main>
   );

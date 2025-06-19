@@ -69,7 +69,7 @@ const ContactSection = () => {
               <Mail className="text-yellow-400 mr-3 mt-1" size={20} />
               <div>
                 <h4 className="font-semibold">Email Us</h4>
-                <p className="text-gray-200">info@nccpo.com</p>
+                <p className="text-gray-200">nccpo@contractor.net</p>
               </div>
             </div>
 

@@ -90,7 +90,7 @@ const SupplierSourcing = () => {
             <h1 className="text-4xl md:text-5xl font-bold mb-6">Supplier Sourcing Services</h1>
             <p className="text-lg md:text-xl leading-relaxed mb-8">
               Connect with the right suppliers to drive quality, efficiency, and value throughout your supply chain. 
-              NCCPO's strategic sourcing solutions help you build reliable supplier networks tailored to your specific needs.
+              BCPO's strategic sourcing solutions help you build reliable supplier networks tailored to your specific needs.
             </p>
             <Link 
               href="/contact"
@@ -109,7 +109,7 @@ const SupplierSourcing = () => {
         <div className="mb-16">
           <h2 className="text-3xl font-bold mb-6">Strategic Supplier Sourcing Solutions</h2>
           <p className="text-lg leading-relaxed mb-6">
-            Finding the right suppliers is the cornerstone of successful project delivery. <strong>NCCPO Ltd</strong> connects you with 
+            Finding the right suppliers is the cornerstone of successful project delivery. <strong>BCPO Ltd</strong> connects you with 
             vetted and reliable suppliers, both local and global, tailored to your industry and budget.
           </p>
           <p className="text-lg leading-relaxed">
@@ -243,7 +243,7 @@ const SupplierSourcing = () => {
             </div>
             <div className="md:w-2/3 p-8">
               <p className="text-lg mb-4">
-                A mid-sized manufacturing company was struggling with supplier reliability and rising costs. NCCPO implemented a comprehensive 
+                A mid-sized manufacturing company was struggling with supplier reliability and rising costs. BCPO implemented a comprehensive 
                 supplier sourcing strategy that:
               </p>
               <ul className="space-y-2 mb-4">

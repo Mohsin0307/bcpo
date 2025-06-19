@@ -6,7 +6,7 @@ const steps = [
     icon: <FaComments className="text-white text-2xl" />,
     title: "Free Consultation",
     description:
-      "Contact our NCCPO team today and discuss your project requirements to get extraordinary results!",
+      "Contact our BCPO team today and discuss your project requirements to get extraordinary results!",
   },
   {
     icon: <FaMapMarkedAlt className="text-white text-2xl" />,

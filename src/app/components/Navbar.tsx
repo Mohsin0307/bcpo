@@ -34,7 +34,7 @@ const Navbar = () => {
         {/* Logo Section with gradient background */}
         <div className={`flex items-center ${scrolled ? 'bg-gradient-to-r from-blue-900 to-blue-700' : 'bg-gradient-to-r from-blue-700 to-blue-500'} text-white py-3 px-6 rounded-br-3xl transition-all duration-300`}>
           <div className="font-bold">
-            <div className="text-2xl tracking-wider">NCCPO</div>
+            <div className="text-2xl tracking-wider">BCPO</div>
             <div className="text-xs tracking-widest text-yellow-400">PROCUREMENT & CONSULTANCY</div>
           </div>
         </div>
@@ -68,17 +68,17 @@ const Navbar = () => {
               scrolled ? 'hover:border-b-2 hover:border-blue-700' : 'hover:border-b-2 hover:border-yellow-400'
             }`}>
               <span>CONSULTANCY SERVICE</span>
-              <ChevronDown size={14} className="transition-transform duration-300" />
+              <ChevronDown size={18} className="transition-transform duration-800" />
             </div>
             {dropdownOpen && (
               <div className="absolute top-full left-0 mt-1 w-64 bg-white text-blue-900 shadow-lg rounded-md border-t-2 border-yellow-400 overflow-hidden">
-                <Link href="/service1" className="block px-4 py-3 hover:bg-blue-50 hover:text-blue-700 transition-colors duration-200 border-b border-gray-100">
+                <Link href="/procurement-consulting" className="block px-4 py-3 hover:bg-blue-50 hover:text-blue-700 transition-colors duration-200 border-b border-gray-100">
                   Procurement Consulting
                 </Link>
-                <Link href="/service2" className="block px-4 py-3 hover:bg-blue-50 hover:text-blue-700 transition-colors duration-200 border-b border-gray-100">
+                <Link href="/supplier-sourcing" className="block px-4 py-3 hover:bg-blue-50 hover:text-blue-700 transition-colors duration-200 border-b border-gray-100">
                   Supplier Sourcing
                 </Link>
-                <Link href="/service3" className="block px-4 py-3 hover:bg-blue-50 hover:text-blue-700 transition-colors duration-200">
+                <Link href="/bid-tender" className="block px-4 py-3 hover:bg-blue-50 hover:text-blue-700 transition-colors duration-200">
                   Bid & Tender Writing
                 </Link>
               </div>
@@ -86,7 +86,7 @@ const Navbar = () => {
           </div>
 
           <Link 
-            href="/building-works" 
+            href="/services" 
             className={`transition-colors duration-300 hover:text-yellow-400 ${
               scrolled ? 'hover:border-b-2 hover:border-blue-700' : 'hover:border-b-2 hover:border-yellow-400'
             }`}
@@ -146,13 +146,13 @@ const Navbar = () => {
             
             {dropdownOpen && (
               <div className="bg-gray-50 pl-10">
-                <Link href="/service1" className="block px-4 py-3 hover:bg-blue-100">
+                <Link href="/procurement-consulting" className="block px-4 py-3 hover:bg-blue-100">
                   Procurement Consulting
                 </Link>
-                <Link href="/service2" className="block px-4 py-3 hover:bg-blue-100">
+                <Link href="/supplier-sourcing" className="block px-4 py-3 hover:bg-blue-100">
                   Supplier Sourcing
                 </Link>
-                <Link href="/service3" className="block px-4 py-3 hover:bg-blue-100">
+                <Link href="/bid-tender" className="block px-4 py-3 hover:bg-blue-100">
                   Bid & Tender Writing
                 </Link>
               </div>

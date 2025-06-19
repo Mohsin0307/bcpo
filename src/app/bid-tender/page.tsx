@@ -251,7 +251,7 @@ const BidWriting = () => {
               Get a Free Consultation
             </Link>
             <Link 
-              href="/success-stories"
+              href="/bid-tender"
               className="px-6 py-3 bg-transparent border border-white text-white font-semibold rounded-md hover:bg-white/10 transition-colors"
             >
               View Our Success Stories
