@@ -47,7 +47,7 @@ const ServicesPage = () => {
         <div className="text-center mb-16">
           <h2 className="text-3xl md:text-4xl font-bold mb-6">Our Specialised Services</h2>
           <p className="text-lg max-w-3xl mx-auto">
-            NCCPO offers comprehensive consultancy services designed to help businesses optimize their 
+            BCPO offers comprehensive consultancy services designed to help businesses optimize their 
             procurement processes, build reliable supplier networks, and win more contracts.
           </p>
         </div>
@@ -122,7 +122,7 @@ const ServicesPage = () => {
             <div className="md:w-3/4 md:pr-12">
               <div className="text-4xl text-[#f7a034] mb-4">"</div>
               <p className="text-xl italic mb-6">
-                NCCPO's consultancy services transformed our procurement processes. Their expertise in supplier sourcing 
+                BCPO's consultancy services transformed our procurement processes. Their expertise in supplier sourcing 
                 and contract negotiation resulted in significant cost savings and improved supplier performance across our organisation.
               </p>
               <div>
