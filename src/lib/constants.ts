@@ -1,8 +1,8 @@
 export const COMPANY_DETAILS = {
-    name: "NCCPO Ltd",
+    name: "BCPO Ltd",
     phone: "+447979201706",
     email: "nccpo@contractor.net",
-    address: "1 Brockehurst Mews, Macclesfield SK10 2GY",
+    address: "165 WOLVERHAMPTION ROAD WEST, WALSALL, WS2 ODU",
     companyNumber: "16242818",
-    website: "nccpo.com", // Placeholder; update if new domain exists
+    website: "bcpo.com", // Placeholder; update if new domain exists
   };
